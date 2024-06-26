@@ -18,7 +18,7 @@ body {
   font-size: 2.5em;
   font-weight: bold;
   color: #120902; /* Brown color */
-  text-shadow: 2px 2px rgb(129, 95, 65); /* Gold shadow for a stylish effect */
+  text-shadow: 2px 2px rgb(129, 95, 65); 
 }
 
 .chat-window {
@@ -40,7 +40,7 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: flex-end;
-  align-items: center; /* Center align the messages container */
+  align-items: center; 
   overflow-y: auto;
 }
 
@@ -58,7 +58,7 @@ body {
   text-align: right;
   color: white;
   margin-left: auto;
-  margin-right: 10px; /* Add slight margin to push user messages to the right */
+  margin-right: 10px; 
   
 }
 
