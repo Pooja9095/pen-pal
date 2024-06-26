@@ -26,7 +26,7 @@ Pen Pal is a chatbot application, a full-stack development built using React for
 2. Install the required dependencies
    ```sh
    pip install -r requirements.txt
-3. Run the backend server:
+3. Run the backend server
    ```sh
    python app.py
 
