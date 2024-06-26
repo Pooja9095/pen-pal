@@ -42,10 +42,9 @@ Pen Pal is a chatbot application, a full-stack development built using React for
    npm start
 
 ## Setup Instructions
-
 Open your browser and navigate to 
-```sh
-http://localhost:3000
+   ```sh
+   http://localhost:3000
 
 Type a message in the input box and interact with the chatbot
 
