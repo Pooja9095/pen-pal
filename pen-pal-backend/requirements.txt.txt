@@ -1,0 +1,5 @@
+torch
+flas-session
+flask
+flask-cors
+transformers

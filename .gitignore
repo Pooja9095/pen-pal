@@ -1,0 +1,27 @@
+# Ignore Python-related files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+
+# Ignore virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# Ignore node_modules
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore Mac system files
+.DS_Store
+
+# Ignore Windows system files
+Thumbs.db
+
+# Ignore Flask session files
+pen-pal-backend/flask_session/
