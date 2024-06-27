@@ -18,7 +18,7 @@ const ChatWindow = () => {
           <Message key={index} text={msg.text} type={msg.type} />  // Render each message
         ))}
       </div>
-      <MessageInput onSend={addMessage} /> // Pass the addMessage function to the MessageInput component
+      <MessageInput onSend={addMessage} /> 
     </div>
   );
 };
